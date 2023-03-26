@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:layout_margin="20dp"
+    >
+
+<!--    First try-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tvCount"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="0"-->
+<!--        android:textSize="80sp"-->
+<!--        android:gravity="center"-->
+<!--        android:textStyle="bold"-->
+<!--        android:layout_marginBottom="30dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonAdd"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Add One"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonSub"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Sub One"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonReset"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Reset"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    For second try-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tvCount"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="0"-->
+<!--        android:textSize="90sp"-->
+<!--        android:gravity="center"-->
+<!--        android:textStyle="bold"-->
+<!--        android:layout_marginBottom="30dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonAdd"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Add One"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonSub"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Sub One"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonReset"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Reset"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    For third try-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tvCount"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="0"-->
+<!--        android:textSize="90sp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_marginBottom="30dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonAdd"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Add one"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonSub"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Sub One"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/buttonReset"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Reset"-->
+<!--        android:textSize="30sp"-->
+<!--        android:padding="15dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        />-->
+
+<!--    Four and Final try-->
+
+    <TextView
+        android:id="@+id/tvCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="90sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:padding="20dp"
+        android:layout_marginBottom="30dp"
+        />
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add One"
+        android:textSize="35sp"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        />
+
+    <Button
+        android:id="@+id/buttonSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sub One"
+        android:textSize="35sp"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        />
+
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:textSize="35sp"
+        android:padding="15dp"
+        android:layout_margin="10dp"
+        />
+
+</LinearLayout>
